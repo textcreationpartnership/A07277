@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The faithfull and wise preventer or counseller: or, necessary considerations to be thought vpon by the high and noble Prince Maurice, by the grace of God, Prince of Orange, &amp;c. Touching the reasons deliuered by the ambassadours, for the better declaration, defence and furthering of their propositions made touching a truce to be obserued for many yeares. By the which considerations (being weighed according to the state of the present time) euery man may plainly see what is now further to be done for the securitie of the state of these countries. Written by a louer of the countries welfare.</title>
+            <author>Lover of the Countries Welfare.</author>
+         </titleStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A07277</idno><idno type="EEBO-CITATION">99838609</idno>
+  <idno type="VID">2994</idno>
+  <idno type="EEBO-PROQUEST">2240876559</idno>
+  <idno type="STC">STC 17672</idno>
+  <idno type="STC">ESTC S102847</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99838609e"/>
+            <note>(EEBO-TCP ; phase 2, no. A07277)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 2994)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1145:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The faithfull and wise preventer or counseller: or, necessary considerations to be thought vpon by the high and noble Prince Maurice, by the grace of God, Prince of Orange, &amp;c. Touching the reasons deliuered by the ambassadours, for the better declaration, defence and furthering of their propositions made touching a truce to be obserued for many yeares. By the which considerations (being weighed according to the state of the present time) euery man may plainly see what is now further to be done for the securitie of the state of these countries. Written by a louer of the countries welfare.</title>
+                  <author>Lover of the Countries Welfare.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Aert Meuris boeckvercooper [i.e. E. Allde?],</publisher>
+                  <pubPlace>In Graven-hage [i.e. London] :</pubPlace>
+                  <date>1621.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and possible printer's name from STC.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Maurice, --  Prince of Orange, 1567-1625 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:2994:1"/>
+            <pb facs="tcp:2994:1"/>
+            <p>THE FAITHFVLL AND WISE PREVEN<g ref="char:EOLhyphen"/>TER OR COVNSELLER: <hi>OR,</hi> NECESSARY CONSIDERATIONS to be thought vpon by the high and noble Prince <hi>Maurice,</hi> by the grace <hi>of God, Prince of Orange, &amp;c.</hi>
+            </p>
+            <p>Touching the Reasons deliuered by the Ambassa<g ref="char:EOLhyphen"/>dours, for the better declaration, defence and furthe<g ref="char:EOLhyphen"/>ring <hi>of their Propositions made touching a Truce to be obserued for many yeares.</hi>
+            </p>
+            <p>By the which Considerations (being weighed ac<g ref="char:EOLhyphen"/>cording to the state of the present time) euery man <hi>may plainly see what is now further to be done for the securitie of the state of these Countries.</hi>
+            </p>
+            <p>Written by a Louer of the Countries welfare.</p>
+            <q>
+               <p>Veritas temporis filia.</p>
+            </q>
+            <p>IN GRAVEN-HAGE, Printed by <hi>Aert Meuris Boeckvercooper.</hi> 1621.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:2994:2"/>
+            <pb facs="tcp:2994:2"/>
+            <div type="part">
+               <head>
+                  <hi>Touching the first Article, beginning,</hi> First it is said, that the libertie, &amp;c.</head>
+               <p>SEeing that the whole substance of the Article, onely retaineth this point, that the countrey after fortie yeares times of warre may be brought to peace and freedome: it is before all other things necessary, that the soueraigntie may be declared and set downe, with suf<g ref="char:EOLhyphen"/>ficient, cleare, and no doubtfull words, in regard that the King of Spaine may otherwise at all times seeke his ad<g ref="char:EOLhyphen"/>uantage. Now euery man that is of a sound iudgement, may well vnderstand, that the words which men seeke to make vs beleeue, do in no sort containe nor include that which we desire. For we seek not, neither is there any need of declaring or manifesting of our freedome, or of a free state, because that we were alwayes free vnder our Princes that lawfully ruled ouer vs according to the lawes and pri<g ref="char:EOLhyphen"/>uiledges of these countries, but wholy to get out of the long and continuall warre that hath bin holden therein. Therefore it is requisite that our aduerse parties should clearely set downe their meaning, that they promise ne<g ref="char:EOLhyphen"/>uer to pretend any thing touching the soueraigntie of these countries. For without that, we can haue no hope at any time to liue peaceably, as by all resolutions made touch<g ref="char:EOLhyphen"/>ing this proposition, it was manifestly vnderstood: other<g ref="char:EOLhyphen"/>wise that which they promise vnto vs, without the said de<g ref="char:EOLhyphen"/>claration, serues to no other end, then to depend vpon pre<g ref="char:EOLhyphen"/>tences, and to bring these countries vnder subiection, and the rather, because the words, not to pretend any thing touching our freedome, take not away the pretence touch<g ref="char:EOLhyphen"/>ing the soueraigntie, in respect that the freedome and the soueraigntie are two seuerall things; and withall that what<g ref="char:EOLhyphen"/>soeuer is contained in the treatie, doth expire with the end<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:2994:3"/>of the truce. So that the whole Treatie, after it is ex<g ref="char:EOLhyphen"/>pired, is esteemed as not to haue bin made, vnlesse the con<g ref="char:EOLhyphen"/>tinuance of the point <hi>for euer</hi> might be expresly vrged; and the rather, for that the Popes Nuncios lying in France, and the Iesuites vse all the meanes they can, to the end that this forme set downe by the Ambassadours, might be found to be good and sufficient, therefore also this word <hi>for euer</hi> ought the rather to be required, in regard that in treaties of peace cōmonly there is an article inserted, that the same shall continue for euer. But for that in a treatie of truce, the words <hi>for euer</hi> are not set downe, thereby the soueraigntie also is pretended to end and to cease with the expiration of the truce. And the States meaning is, that the soueraigntie shall continue for euer; but the Deputies of the Archduke haue roundly and manifestly declared the contrary, that is, that their Masters vnderstand that the same shall continue no longer then the time of the truce.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Article beginning,</hi> It is also to be considered, &amp;c.</head>
+               <p>WE seeke not for any grant or gift of freedome, as knowing manifestly that we haue the same of our selues; but herein it is spoken of ceasing from armes, and of reducing the country into securitie: which cannot be done, vnlesse the King of Spaine doth wholy renounce his pretence of soueraigntie ouer these countries <hi>for euer.</hi> For that he which this day pretendeth nothing, the next day may pretend some thing; whereby we may see the capti<g ref="char:EOLhyphen"/>ousnesse and danger contained in the aforesaid forme and manner of proceeding.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Article beginning;</hi> You ought to desire no more, &amp;c.</head>
+               <p>WHat doth this otherwise pretend, then that we should acknowledge the Archduke, or to speake plainly,
+<pb facs="tcp:2994:3"/>the King of Spaine for oursoueraign Lord: which maketh vs by all reason to feare, that this truce shall serue onely for a preparation. And whereunto can the same otherwise tend, but that when the enemie shall once haue put vs out of doubt and suspition, and redressed his state and reuenue, he may fall vpon vs, and bring our country into vtter ru<g ref="char:EOLhyphen"/>ine, without any meanes for vs to relieue our selues in any maner, which in truth is his onely desiring and purpose. It being worth the noting, that the Emperor <hi>Charles</hi> the fifth did not content himselfe peaceably and quietly to haue en<g ref="char:EOLhyphen"/>ioyed and freely possessed the country of Flanders for the spake of 70 yeares, but also that he compelled <hi>Francis</hi> the first, King of France, to renounce the soueraigntie thereof, and that in another maner then is here set downe vnto vs.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Article beginning,</hi> You need not therefore further to seeke, &amp;c.</head>
+               <p>THis point is answered before in the first and second Article, in this manner: That it is specially needfull that the soueraigntie should be well expressed, in respect of the nature of the truce; which being expired, all ceaseth; as also the country is full of it selfe, and cannot be secured, vnlesse the King of Spaine doth renounce and abandon his pretence thereunto.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Article beginning,</hi> We also made this declaration, &amp;c.</head>
+               <p>THe Article touching the Soueraigntie, is not onely made by the premeditated aduice of the Ambassa<g ref="char:EOLhyphen"/>dours, but also by the same not sufficiently set downe, but rather to be esteemed of no force, without the words, for the present and future time, and for them and their succes<g ref="char:EOLhyphen"/>sors: it being alwayes formerly declared, that in the treatie of truce we must consequently and necessarily haue the said soueraigntie <hi>for euer.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:2994:4"/>
+               <head>
+                  <hi>Touching the Article beginning,</hi> But it is obiected, &amp;c.</head>
+               <p>IT is not sufficient that the enemie saith it; for <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the de<g ref="char:EOLhyphen"/>claration that the Ambassadours made at the generall as<g ref="char:EOLhyphen"/>sembly of the Lords the States vpon the 28 of this moneth (when they propounded and deliuered the Articles of the truce) that they had done all that possibly they could, and yet continued and insisted to set downe a firmer and stron<g ref="char:EOLhyphen"/>ger declaration of the soueraigntie, when they alwayes haue insisted, and yet insist, to the Deputies of the Archdukes, touching these words, <hi>We hold and declare them to be free States,</hi> manifestly sheweth a notable contradiction, that is, that the forme set downe cannot be holden for sufficient, but rather that they do it by a manner of a discharge, lea<g ref="char:EOLhyphen"/>uing it vnto our selues to iudge of our owne cause. And which is more, not onely the Archdukes are to hold their promises, but also the King of Spaine hath expresly pro<g ref="char:EOLhyphen"/>mised by his act of aggregation, bearing date the 18 of September 1607. to obserue and keepe, and cause to be ob<g ref="char:EOLhyphen"/>serued and kept, all and euery point, as well touching the truce, as the peace, binding himselfe thereunto by his princely word, together with all generall and particular re<g ref="char:EOLhyphen"/>nuntiation and acquitald necessary and belonging there<g ref="char:EOLhyphen"/>unto. Whereupon the Deputies, as well in the name of the Archdukes, as of the King of Spaine, haue by the treatie of peace agreed vnto the article of Soueraigntie, in such manner and forme as it standeth, which is farre otherwise then it is now set downe vnto vs.</p>
+            </div>
+            <div type="part">
+               <head>Touching the Article beginning, <hi>Therefore we esteeme, &amp;c.</hi>
+               </head>
+               <p>THere is no apparence that the Truce will become a full peace, but for the aduantage of the enemie, when by meanes thereof, at the last they may become Masters
+<pb facs="tcp:2994:4"/>of these countries, for the vtter destruction and miserable subuersion of the same.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Article beginning,</hi> If these reasons content you not, &amp;c.</head>
+               <p>IT is not sufficient that the Princes hold vs to be free, but it is necessary that all the inhabitants also should be suffi<g ref="char:EOLhyphen"/>ciently perswaded thereof in their mindes, that they may not be forced to looke after the rising of another Sunne. Likewise also the Kings and Princes are bound no longer then the continuance of the Truce, but all the doubt con<g ref="char:EOLhyphen"/>sisteth and dependeth vpon the expiration thereof.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Article beginning,</hi> Then it is certaine, &amp;c.</head>
+               <p>THere is great difference betweene the state of a Soue<g ref="char:EOLhyphen"/>raigntie that is cleare without question, and a Soue<g ref="char:EOLhyphen"/>raigntie which may be doubly vnderstood and taken. For that which is cleare maketh the cause of the warre to be of Iesse force; and by the other we giue the enemie matter whereby to iustifie his pretences, and a pretence to estrange himselfe from vs, and to draw our confederates vnto him<g ref="char:EOLhyphen"/>selfe, as by death and processe of time all things in the world are altered.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Article beginning,</hi> Then it is, the aduenture of armes, &amp;c.</head>
+               <p>BY the clearenesse of the treatie, not onely hard and cruell warre would ensue, but also lawfull and vnlaw<g ref="char:EOLhyphen"/>full; therefore the clearenesse thereof is most needfull for this State: and according to the contents of this Article, there is no need of any treatie at all, seeing that all differen<g ref="char:EOLhyphen"/>ces may be ended and determined by armes.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:2994:5"/>
+               <head>
+                  <hi>Touching the Article beginning.</hi> It is said, that the King of Spaine, &amp;c.</head>
+               <p>IT is most dangerous to trust vnto these vncertainties, the rather, seeing that the French King may serue vs for an example to the contrary: but we must rather beleeue, that the King of so great a nation, and one that hath a most great treasure, by lust or for his pleasure may be moued, being thereunto incited and prouoked by his proud glorious na<g ref="char:EOLhyphen"/>tion, to gather a great treasure, with the same to bring these countries vnder his obedience, being they that for the most part haue bin a let and hinderance vnto him, from making himselfe monarch of all Europe.</p>
+            </div>
+            <div type="part">
+               <head>Touching the same that in the said Article is contained, <hi>You to the contrary shall not thinke, &amp;c.</hi>
+               </head>
+               <p>WE are so farre from gathering any treasure, that to the contrary our meanes and trade wil rather lessen: for the enemies hauens being open, the trade wil be driuen thitherward, as already by this ceassing from armes we cer<g ref="char:EOLhyphen"/>tainly finde, and the commons of these countries com<g ref="char:EOLhyphen"/>plaine thereof.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Article beginning,</hi> Some also adde thereunto, &amp;c.</head>
+               <p>NO man desireth, that in regard of this feare, the warre may continue, but those that know the humors and practises of the enemie, as also the manner of our state, ought not to reiect this inconuenience.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Article beginning,</hi> And yet rather in peace, &amp;c.</head>
+               <p>THis inconuenience is more to be doubted by a truce then a peaces for they that are so addicted, in the time
+<pb facs="tcp:2994:5"/>of truce shall be more sought vnto by the enemie, wherein they wil alwayes perswade themselues that they may do it; whereas in time of peace all such likelihoods may be for<g ref="char:EOLhyphen"/>gotten: and although reason requireth, that in time of truce, men should be warie, yet our state permitteth it not, but our carelesnesse, which by the truce we may fall into, will giue the enemie more occasion to put his accustomed practises in effect, and so in one place or other to lay hold on vs.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Article beginning,</hi> It is further to be considered, &amp;c.</head>
+               <p>FEw men may do much in our state, either to good or bad intents, as diuers former examples sufficiently de<g ref="char:EOLhyphen"/>clare. And it clearly appeareth, that many also that are borne in these countries, neuerthelesse are much affected to the enemie, because they haue not tried nor found the rooted Spanish crueltie, as others that are of longer conti<g ref="char:EOLhyphen"/>nuance.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Article beginning,</hi> The danger of practises and corruption, &amp;c.</head>
+               <p>THis is certainly to be cared for, lest any misfortune should happen. Yet the enemie hath not so good an oportunitie to practise his subtill pretences in the time of warre, as when it is truce; because in time of warre all con<g ref="char:EOLhyphen"/>uersation ceaseth. And all these reasons are sufficient, touch<g ref="char:EOLhyphen"/>ing our particular, not to further any kinde of truce what<g ref="char:EOLhyphen"/>soeuer, but the preseruation of our natiue country must al<g ref="char:EOLhyphen"/>wayes be preferred, for it is impossible to preuent all in<g ref="char:EOLhyphen"/>conueniences; and honest men that haue done the best they could, may in conscience comfort themselues.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Article beginning,</hi> There are also some that affirme, &amp;c.</head>
+               <p>THis certainly is a good &amp; conuenient meanes to assure our selues, and such as both in peace and truce ought
+<pb facs="tcp:2994:6"/>to be preferred: for according to the manner of our State, it cannot afterward be brought to passe.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Article beginning,</hi> But they adde thereunto, &amp;c.</head>
+               <p>THe weakning of our trafficks which truce bringeth with it, and the lessening of our contributions which will follow, will not hinder vs from sparing some things for other matters: and also if it should be so, that a great part of our souldiers should be discharged, which neuer<g ref="char:EOLhyphen"/>thelesse cannot be done without some great hazard of our state, which is farre from that, that we might spare more then the one halfe, and the necessitie or want of meanes which men propound, is none such that it should be the cause of the totall ruine of these countries by a sheete of paper, seeing that in former times it hath bin found, that God did not reiect our righteous cause for want of means: besides that the seruices which men continually shall then pay, will also amount vnto a great summe of mony, that in some consideration they may well be esteemed to be able to defray the charges of an armie in the field.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Article beginning,</hi> It is also further alledged, &amp;c.</head>
+               <p>BEfore <hi>Lipsius</hi> began to be in some reputation, the best experienced and wisest men on the enemies side, as a<g ref="char:EOLhyphen"/>mong the rest, the President <hi>Vig<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lius, Hopperus, Assenvills,</hi> and <hi>Richardot,</hi> as also <hi>Taxis</hi> and others among the Spani<g ref="char:EOLhyphen"/>ards held the way of truce to be the fittest meanes to bring vs into subiection. And to the contrary, the best and faith<g ref="char:EOLhyphen"/>fullest men on our side did esteeme all kindes of truce to be a meanes to <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uinate our countries; and the enemie ma<g ref="char:EOLhyphen"/>nifestly sheweth, that he hopeth by this. Truce to attaine his desire; for that in the beginning of this treatie he hath sought by bribes to bring the same to effect: and <hi>Lipsius</hi>
+                  <pb facs="tcp:2994:6"/>letter sufficiently sheweth, how much the subiects are to doubt of their soueraigntie; and without hauing the full soueraigntie, these countries in that respect shal be brought into the state of subiection.</p>
+            </div>
+            <div type="part">
+               <head>Touching the Article beginning, <hi>And examples manifest, &amp;c.</hi>
+               </head>
+               <p>IF we will helpe our selues with examples, it is ten to one that all those that too lightly beleeued and credited their enemy, were deceiued, and vtterly spoiled.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Article beginning,</hi> Therefore you must vpon this subiect remember the creatis, &amp;c.</head>
+               <p>THe pacification of Gaunt, was made by the States of the Prouinces themselues: but in all other Treaties that we haue made with the King of Spaine, we were de<g ref="char:EOLhyphen"/>ceiued; and the Treatie of Colen did not onely cause a great diuision among vs, but also separated a great part of our Prouinces from vs, which by this coniunction we may well perceiue.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Article beginning,</hi> The example of the Switzers, &amp;c.</head>
+               <p>THis comparison is altogether vnlikely; for the Swit<g ref="char:EOLhyphen"/>zers made a Truce with an Earle of Habsburch, against whom in foure and twentie yeares they could bring a great number of souldiers; whereas we, to the contrary, haue to deale with the mightiest King in Europe, with whom, in respect of our offences, we are vnreconcileable. As also the example set downe in the proposition of the Ambassadors touching <hi>Christiernus</hi> King of Denmarke, is here of no force, because it was an electiue kingdome, wherein the son doth not succeed the father, without a former election,
+<pb facs="tcp:2994:7"/>and the said King also was committed to prison, and ano<g ref="char:EOLhyphen"/>ther chosen in his place.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Article beginning,</hi> Now you may hope, &amp;c.</head>
+               <head type="sub">
+                  <hi>And the following beginning,</hi> It is God onely, &amp;c.</head>
+               <p>THe forces by water, and the number of expert sailers, are here not to be reckoned, in regard that all the dan<g ref="char:EOLhyphen"/>ger that we are to feare, is by land, against the which the si<g ref="char:EOLhyphen"/>tuation and the strong riuers cannot helpe vs, without a great force of men, and for that all the strength of these Prouinces onely consisteth in forreine souldiers; it is cer<g ref="char:EOLhyphen"/>taine, that after the losse thereof, which might fall vpon vs, aide would come too late out of France, Great Britaine, and without a cleare and euident soueraigntie, there are as many reasons after the Truce to doubt of aide, as we haue to assure our selues thereof.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Article beginning,</hi> Then make not your resolution, &amp;c.</head>
+               <p>TO this they may answer that haue made and sent forth some writings, thereby to moue the people to rebel<g ref="char:EOLhyphen"/>lion, and such as haue not addressed themselues thereunto as they ought to haue done.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Article beginning,</hi> Some will perswade themselues, &amp;c.</head>
+               <p>
+                  <hi>DOn Pedro de Toledo</hi> being yet in Spaine, his Excellen<g ref="char:EOLhyphen"/>cie receiued certaine and true intelligence, that the said <hi>Don Pedro</hi> shou'd be sent into France, to breake this treatie of peace, and to practise a truce, for that the Archdukes De<g ref="char:EOLhyphen"/>puties had giuen way, by treatie of peace, into the Soue<g ref="char:EOLhyphen"/>raigntie; which therefore by meanes of a Truce they must
+<pb facs="tcp:2994:7"/>seeke to repaire: all which his Excellencie, after the break<g ref="char:EOLhyphen"/>ing of the Treatie of peace, and before the Propositions made by the Ambassadours touching a Truce, declared in a full assembly of the Lords the States Generall, and in all occurrents, the note made by <hi>Richardot</hi> touching the Truce, forgoten here behind him in the Hage among his other instructions, containes the same words that are inserted in the aforesaid proposition.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Article beginning,</hi> Therefore we do not doubt, &amp;c.</head>
+               <p>WE may well gesse, that the Ambassadours from the King and the Princes haue their particular insights tending to the good and benefit of their state, which we willingly vnderstand and take in the best meaning, hoping that they also will not mislike that we respect the profit and preseruation of this State, whereunto we are so strictly bound, and therein haue so great an interest; their Honors intreating vs constantly to trust, that we herein deale sin<g ref="char:EOLhyphen"/>cerely and vprightly, as for the best seruice and benefit of the land, and also of their respectiue Kings and Princes, we find most conuenient, assuring our selues that in time their Maiesties themselues shall iudge it to be so, and see that we herein haue vsed the wisest and best counsell that we could get.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Article beginning,</hi> We will further adde thus much more &amp;c.</head>
+               <p>IF in the time of the Truce, if any mischance should hap<g ref="char:EOLhyphen"/>pen the whole country were lost, without any hope of redresse: whereas to the contrary, the hurt and misfortunes that would happen by warre, are to be repaired, as by ex<g ref="char:EOLhyphen"/>perience it appeareth, that we haue preseru<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d the body of the Land without the frontiers, which by Gods blessing we haue wonne, and by meanes of them haue redressed
+<pb facs="tcp:2994:8"/>our state, and now it is time that we should enioy the fruits of our fortie yeares warre, and at least to make good con<g ref="char:EOLhyphen"/>ditions, while we haue an aduantage vpon our enemie, which being out of our hands, we shall neuer haue so good an occasion againe: for after the Truce, we shall be com<g ref="char:EOLhyphen"/>pelled to humble our selues vnto the enemie, or to enter in<g ref="char:EOLhyphen"/>to a most dangerous, yea and a desperate warre. And as at diuers times a blanke paper hath bin presented vnto vs to make a Truce, the like without doubt will be done vnto vs as often and as many times as we will suffer our selues to be blindfolded, and concent our selues with so obscure and lame a soueraigntie.</p>
+               <p>Therefore our meaning and speciall aime is, to be well secured in these countries by the Truce, that at the least the Soueraigntie may be set in a good, cleare, sufficient forme, such as the same shall not onely continue, and haue and hold her force for the time of the Truce, but also for euer after the expiration thereof: and that the same shall not be shadowed nor couered ouer with captiousnesse and double meanings, but made with the same words, according to the foote of the beginning therereof, wifely and with one con<g ref="char:EOLhyphen"/>sent taken by the resolutions of the 24 of April, the second of Nouember, and the 23 of December in the last yeares and the prorogation touching the breaking off of the Trea<g ref="char:EOLhyphen"/>tie of peace, dated the 24 of August, and the acts of the 13 of September last past; as also the aduice of the Ambassa<g ref="char:EOLhyphen"/>dours giuen touching the Soueraigntie, and likewise the obligation and renouncing contained in the acts, not only from the King of Spaine, but also from the Archduke. That so the country may effectually enioy that, whereon this Treatie wholy dependeth; and that this propounded So<g ref="char:EOLhyphen"/>ueraigntie may not serue for a pretence to bring vs into a Treatie, that may be hurtfull and iniurious to this state: which the better to effect, and to hold and maintaine the Prouinces in a good peace, vnitie and securitie, for our ad<g ref="char:EOLhyphen"/>uice we thinke it fit, that before we enter into Treatie of this matter, the Archdukes shall take care to produce the
+<pb facs="tcp:2994:8"/>King of Spaines act of clearing the Soueraigntie, which shall be true, sufficient, and wholy conformable vnto the aforesaid resolutions, prorogation, acts, aduices, obligati<g ref="char:EOLhyphen"/>ons and renunciations, specially the aforesaid articles, to the end that we may not another time (as by the Treatie of peace) be deceiued.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
